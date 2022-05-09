@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "1c78965a154cdcbe99396faf510186aa"
+build_time: [1638951737, 64573000]
+inputs:
+  "/Users/ffaadhilah/Project/_bitbucket/attendance_flutter/ios/Runner/AppDelegate.swift": !dirty [1617766741, 143940449]

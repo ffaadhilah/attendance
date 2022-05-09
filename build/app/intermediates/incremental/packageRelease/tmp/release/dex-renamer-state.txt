@@ -1,0 +1,4 @@
+#Tue Dec 28 13:30:52 WIB 2021
+base.0=/Users/ffaadhilah/Project/_bitbucket/attendance_flutter/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

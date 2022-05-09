@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ffaadhilah/Project/_bitbucket/attendance_flutter/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ffaadhilah/.gradle/caches/transforms-2/files-2.1/f1592e05dc840341e2f49f95e580f740/play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ffaadhilah/Project/_bitbucket/attendance_flutter/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/ffaadhilah/.gradle/caches/transforms-2/files-2.1/f1592e05dc840341e2f49f95e580f740/play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/ffaadhilah/Project/_bitbucket/attendance_flutter/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ffaadhilah/.gradle/caches/transforms-2/files-2.1/f1592e05dc840341e2f49f95e580f740/play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
